@@ -1,2 +1,4 @@
 RyZen 5 5600x
 Nvidia 3080
+
+Motherboard
